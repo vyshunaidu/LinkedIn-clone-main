@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hardik Goel</h1>
+<h1 align="center">Hi 👋, I'm Vyshnavi Ganta</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
 - 🔭 I’m currently working on [LinkedIn Clone](https://vyshunaidu.github.io/LinkedIn-clone/)
