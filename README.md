@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vyshnavi Ganta</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
-- 🔭 I’m currently working on [LinkedIn Clone](https://vyshunaidu.github.io/LinkedIn-clone/)
+- 🔭 I’m currently working on [LinkedIn Clone](https://vyshunaidu.github.io/LinkedIn-clone-main/)
 
 - 🌱 I’m currently learning **ReactJs and Javascript**
 
